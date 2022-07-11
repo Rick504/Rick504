@@ -1,8 +1,17 @@
-## Hello, im Rick!
+## Olá, meu nome é Rick!
 
 - 🎓 Me formando em Sistema da Informação
 #
-- 📚 Atualmente Estudando TypeScript, Next.js, Apis com Node.js
+- 📚 Estagiário Front-end
+#
+- Tecnologias mais utilizadas:
+  - HTML, CSS, Javascript
+  - jQuery
+    - Plugins jQuery
+  - Vue.js
+    - Vuex, Pinia, Axios
+  - Bootstrap
+  - TypeScript
 
 ##
 
