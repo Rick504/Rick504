@@ -42,4 +42,6 @@
  
  Codificado de ❤️ por Rick Rios 👋🏽 Entre em contato!
  <br>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Rick_Wesley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rick-wesley-ab54b8204/)](https://www.linkedin.com/in/rick-wesley-ab54b8204/)
 [![Gmail Badge](https://img.shields.io/badge/-rick.rios@dne.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rick.rios@onebox.one)](mailto:rick.rios@dne.com.br)
